@@ -15,3 +15,14 @@ I like **nike** so much beacuse they make great **running** shoes and basically 
 <hr>
 
 [Here is the loaction I want to visit!](MyLocation.md)
+
+<hr>
+
+#### Part7: Tables
+
+| Place   | Why                                                                    | DistanceFH | Budget |
+|---------|------------------------------------------------------------------------|------------|--------|
+| France  | I want to see some friends and it's close proximity to other countries | 4,500      | 1,500  |
+| Italy   | I want to visit Rome and some other cool places                        | 5,200      | 1700   |
+| Austria | Very cool castles and there's a good amount of mountains to ski        | 5,100      | 2,000  |
+| Chicago | Very cool city and would love to go to a bears game                    | 514        | 1,200  |
