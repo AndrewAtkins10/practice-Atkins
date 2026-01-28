@@ -13,3 +13,5 @@ I like **nike** so much beacuse they make great **running** shoes and basically 
 * 1984
 * Pride and Prejudice
 <hr>
+
+[Here is the loaction I want to visit!](MyLocation.md)
