@@ -33,3 +33,11 @@ I like **nike** so much beacuse they make great **running** shoes and basically 
 
 ' "As the winds blow in passing, Baby I think I'm falling in love with you "  *Erykah Badu* '
 
+<hr>
+
+This code Snippet is very simple. All we are doing is selecting from a table in a database. We often use it when retrieving data  and display certain parts of the database.
+'''
+SELECT * FROM table;
+'''
+[Link to the code snippets](https://pieces.app/collections/sql)
+
