@@ -26,3 +26,10 @@ I like **nike** so much beacuse they make great **running** shoes and basically 
 | Italy   | I want to visit Rome and some other cool places                        | 5,200      | 1700   |
 | Austria | Very cool castles and there's a good amount of mountains to ski        | 5,100      | 2,000  |
 | Chicago | Very cool city and would love to go to a bears game                    | 514        | 1,200  |
+
+<hr>
+
+' " You can't stop the rain, when it starts to pour " - *Loose Ends* '
+
+' "As the winds blow in passing, Baby I think I'm falling in love with you "  *Erykah Badu* '
+
